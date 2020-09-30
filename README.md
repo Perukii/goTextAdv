@@ -54,3 +54,5 @@ go run main.go func.go loop.go gopher.go map.go enemy.go
 
 - マップの最も北には、世にも恐ろしい存在が待ち受けているようです。
 - それは果たして誰なのか、そしてそれを倒した先にあるものは...自分の目(あるいはソースコード)で確かめましょう！
+
+Created by Perukii(Tada Teruki)
