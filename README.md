@@ -27,7 +27,7 @@ Gopherはいつものように街を歩き回っていた。<br>
 
 プログラムを実行します。
 ```
-go run main.go func.go loop.go gopher.go map.go enemy.go 
+go run ./src
 ```
 
 - はじめての方は「初めから」を選択してゲームを開始します。(1と入力してください)
