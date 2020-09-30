@@ -5,6 +5,8 @@ MITライセンス。楽しい！
 
 ### ストーリー
 
+![Screenshot from 2020-09-30 19-46-56](https://user-images.githubusercontent.com/57752033/94676084-bb098980-0355-11eb-81fc-88363f360941.png)
+
 ここは平和なFLOSS共和国。<br>
 Gopherはいつものように街を歩き回っていた。<br>
 しかしその時！<br>
@@ -17,7 +19,11 @@ Gopherはいつものように街を歩き回っていた。<br>
 果たしてGopherは、この世界の危機を救えるのか！？<br>
 そして、謎の驚異の正体は、いったい誰なのだろうか...？<br>
 
+
+
 ### あそびかた
+
+![Gotxt1](https://user-images.githubusercontent.com/57752033/94675391-a11b7700-0354-11eb-8656-d2683f258750.png)
 
 プログラムを実行します。
 ```
@@ -31,6 +37,8 @@ go run main.go func.go loop.go gopher.go map.go enemy.go
 - 「Gopherの家」よりも南に行くことは出来ません。
 
 ##### 進めてみる
+
+![Gotxt2](https://user-images.githubusercontent.com/57752033/94675398-a2e53a80-0354-11eb-9905-7ef080a32161.png)
 
 - とりあえずゲームを開始したら、北に行ってみましょう。
 - 途中で敵が出現します。繰り返し攻撃して倒すか、逃げましょう。
